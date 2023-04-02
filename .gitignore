@@ -1,0 +1,6 @@
+
+client/cl_main.lua
+server/sv_main.lua
+server/sv_versionChecker.lua
+fxmanifest.lua
+shared/sh_config.lua
